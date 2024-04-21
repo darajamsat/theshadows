@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="/assets/css/styles.css" rel="stylesheet">
+  <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
+  <title>{{ title | capitalize }} - {{ settings.site-title }}</title>
+</head>
+<body>
+  
+  <input type="checkbox" id="check">
+  <label id="nav" for="check">
+    <i class="fas fa-bars" id="btn"></i>
+    <i class="fas fa-times" id="cancel"></i>
+  </label>
+ <nav> 
+  <div class="header">Menu</div>
+    <ul>
+      <li><a href="/">Home</a></li>
+      {%- for post in collections.menu -%}
+        <li><a href="{{post.url}}">{{ post.data.title }}</a></li>
+      {%- endfor -%}
+      </ul>
+  </nav>
+  <header>{{ settings.site-title }}</header>
+  <article>
+    <h1>{{ title }}</h1>
+    {{ content }}
+  </article>
+  <footer>
+    <p>&copy; {{ settings.copyright }}</p>
+    <div>
+      <p>Brownstones is a Static Site Generator for publishing Obisidian. </p>
+      <p>by: DaraJamsAt | <a href="https://github.com/darajamsat/obsidian">Github</a> | <a href="https://buymeacoffee.com/darapressley"><img style="display:inline-block;" class="coffee" src="/assets/img/coffee.svg">Buy me a Coffee</a></p>
+    </div>
+  </footer>
+</body>
+</html>
