@@ -1,6 +1,8 @@
 ### 11ty
 _site/
 node_modules/
+shadows/
+content/
 
 
 # Created by https://www.toptal.com/developers/gitignore/api/macos,node
