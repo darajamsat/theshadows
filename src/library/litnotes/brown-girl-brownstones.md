@@ -1,11 +1,12 @@
 ---
-tag: 📚Book
+tags:
+  - 📚Book
 title: Brown Girl, Brownstones
 rating: ★★★★★
-status: unread
+status: read
 subtitle: ""
 author:
-  - Paule Marshall
+  - "[[Paule Marshall|Paule Marshall]]"
 category:
   - Fiction
 publisher: Courier Corporation
@@ -17,4 +18,5 @@ created: 2024-04-21 10:28:51
 updated: 2024-04-21 10:28:51
 share: true
 layout: layouts/litnote
+index: false
 ---
