@@ -12,7 +12,7 @@ cssclasses:
 ```dataview
 TABLE WITHOUT ID
 	"![|60](" + cover + ")" as Cover,
-	link(title) as Title,
+	link(file.link, title) as Title,
 	author as Author,
 	rating as Rating,
 	status as Status
