@@ -21,3 +21,5 @@ updated: 2024-04-21 10:48:03
 share: true
 layout: layouts/litnote
 ---
+## Exercises
+[[step-2-21-ways | Step 2]]
