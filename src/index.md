@@ -34,3 +34,4 @@ Of course, to carry this off, I needed to be able to easily keep my notes and pu
 
 [^2]: Special thanks to [Nicole van der Hoeven](https://www.youtube.com/@nicolevdh) for her many videos on Obsidian and note taking processes that helped me to find tune my thinking on how I wanted to do this.
 
+

@@ -23,3 +23,6 @@ layout: layouts/litnote
 ---
 ## Exercises
 [[step-2-21-ways | Step 2]]
+
+
+![[queenhearts-modernwitch.png|queenhearts-modernwitch.png]]
