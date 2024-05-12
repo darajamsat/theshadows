@@ -1,11 +1,12 @@
 ---
 title: Licorice
-latin name: Glycyrrhiza glabra(European), Glycyrrhiza uralensis (Chinese)
-common name: Licorice, liquorice
+latin: Glycyrrhiza glabra(European), Glycyrrhiza uralensis (Chinese)
+common: Licorice, liquorice
 family: Fabaceae (Leguminosae)
 share: "true"
 tags:
   - monograph
+layout: layouts/monograph
 ---
 ## Plant stories
 _Tell the story about how you first developed a relationship with this plant, did you know this plant in your childhood? Did you only learn about it as it became a part of your herbal practice? Has your relationship with this plant changed over time?_
