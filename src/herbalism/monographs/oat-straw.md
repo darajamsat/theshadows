@@ -1,13 +1,14 @@
 ---
 title: Oat Straw
-latin name: Avena sativa
-common name: Oat groats, milky oat tops
+latin: Avena sativa
+common: Oat groats, milky oat tops
 family: Graminaceae
 share: "true"
 status:
   - in-progress
 tags:
   - monograph
+layout: layouts/monograph
 ---
 ## Plant stories
 _Tell the story about how you first developed a relationship with this plant, did you know this plant in your childhood? Did you only learn about it as it became a part of your herbal practice? Has your relationship with this plant changed over time?_
@@ -107,4 +108,4 @@ _( link to garden note)_
 _( link to recipes pages )_
 
 
-![[oatstraw-materia-medica.pdf|oatstraw-materia-medica.pdf]]
+![[../../assets/img/oatstraw-materia-medica.pdf|oatstraw-materia-medica.pdf]]
