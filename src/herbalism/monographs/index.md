@@ -1,15 +1,15 @@
 ---
 layout: layouts/base
 title: Monographs
-share: "true"
+share: true
 tags:
   - menu
 ---
 
-- [[herbalism/monographs/licorice.md|licorice]]
-- [[herbalism/monographs/wild-yam.md|wild-yam]]
-- [[herbalism/monographs/sarsaparilla.md|sarsaparilla]]
-- [[herbalism/monographs/oat-straw.md|oat-straw]]
-- [[herbalism/monographs/nettles.md|nettles]]
+- [[./licorice|licorice]]
+- [[./wild-yam|wild-yam]]
+- [[../../../sarsaparilla|sarsaparilla]]
+- [[./oat-straw|oat-straw]]
+- [[./nettles|nettles]]
 
 
