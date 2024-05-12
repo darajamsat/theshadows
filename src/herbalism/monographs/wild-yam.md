@@ -1,11 +1,12 @@
 ---
 title: Wild Yam
-latin name: Dioscorea villosa
-common name: 
+latin: Dioscorea villosa
+common: 
 family: Dioscoreaceae
 share: true
 tags:
   - monograph
+layout: layouts/monograph
 ---
 ## Plant stories
 _Tell the story about how you first developed a relationship with this plant, did you know this plant in your childhood? Did you only learn about it as it became a part of your herbal practice? Has your relationship with this plant changed over time?_
