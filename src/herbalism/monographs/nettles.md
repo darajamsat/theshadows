@@ -1,11 +1,12 @@
 ---
 title: Nettles
-latin name: Urtica dioica
-common name: Stinging Nettle, Ortiga
+latin: Urtica dioica
+common: Stinging Nettle, Ortiga
 family: Urticacea
 share: "true"
 tags:
   - monograph
+layout: layouts/monograph
 ---
 ## Plant stories
 _Tell the story about how you first developed a relationship with this plant, did you know this plant in your childhood? Did you only learn about it as it became a part of your herbal practice? Has your relationship with this plant changed over time?_
@@ -117,4 +118,4 @@ _Developing a true relationship with a plant is about becoming a steward. It’s
 
 ## Recipes
 _( link to recipes pages )_
-![[Nettle-commonwealth.pdf|Nettle-commonwealth.pdf]]![[Nettle  Materia Medica.pdf|Nettle  Materia Medica.pdf]]
+![[../../assets/img/Nettle-commonwealth.pdf|Nettle-commonwealth.pdf]]![[../../assets/img/Nettle  Materia Medica.pdf|Nettle  Materia Medica.pdf]]
