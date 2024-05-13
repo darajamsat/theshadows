@@ -6,10 +6,12 @@ tags:
   - menu
 ---
 
-- [[./licorice|licorice]]
 - [[./wild-yam|wild-yam]]
-- [[../../../sarsaparilla|sarsaparilla]]
-- [[./oat-straw|oat-straw]]
+- [[../../../monograph|monograph]]
+- [[./licorice|licorice]]
 - [[./nettles|nettles]]
+- [[./oat-straw|oat-straw]]
+- [[../../../sarsaparilla|sarsaparilla]]
+- [[./yellow-doc|yellow-doc]]
 
 
