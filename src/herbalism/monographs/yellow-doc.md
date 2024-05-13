@@ -9,7 +9,7 @@ tags:
   - monograph
 ---
 > Resources used:
-> 1. [[../../library/litnotes/Pacific Northwest Medicinal Plants|Pacific Northwest Medicinal Plants]]
+> 1. [[../../library/litnotes/pacific-northwest-medicinal=plants|pacific-northwest-medicinal=plants]]
 > 2. [The Herbarium](https://herbarium.theherbalacademy.com/monograph/yellow-dock/)
 > 3. [Evolutionary Herbalism](https://members.evolutionaryherbalism.com/members/mmm/materia-medica/yellowdock/)
 > 4. [Commonwealth](https://online.commonwealthherbs.com/courses/take/materia-medica/lessons/2377343-yellow-dock-rumex-crispus)
