@@ -3,7 +3,7 @@ title: Yellow Doc
 latin: Rumex crispus
 common: Yellow dock, dock, curled dock, curly dock, narrow-leaf dock, sour dock
 family: Polygonaceae
-share: "true"
+share: true
 layout: layouts/monograph
 tags:
   - monograph
@@ -15,28 +15,26 @@ tags:
 > 4. [Commonwealth](https://online.commonwealthherbs.com/courses/take/materia-medica/lessons/2377343-yellow-dock-rumex-crispus)
 
 
+
 > [!tip] Broad Leaf Doc
 > which grows in my backyard can be used in an alternative -- works identically (according to Katja & Ryn)
 
+
 ## The Details
-_This section covers the scientific and botanical information about this plant._
 
-constituents:: Anthraquinones (such as aglycone, aloe emodin, chrysophanol, emodin, physcion, and rhein), calcium oxalate, flavonoids (including quercitrin), naphthalene derivatives (including neopodin and lapodin), oxalic acid, minerals (including aluminum, ash, iron, magnesium, manganese, niacin, phosphorous, potassium, selenium, silicon, and tin), parietin, tannins, and vitamins A, B1 (thiamine), B2 (riboflavin), B3 (niacin), and C (ascorbic acid)
+Chinese Name: Chin-Ch’iao-Mai
 
-actions:: Alterative, Anti-fungal, Antibacterial, Anticancer, Antioxidant, Antiscorbutic, Astringent, Blood and nutritive tonic, Cholagogue, Laxative
+Ayurvedic Name: Amla vetasa
 
-taste:: astringent, bitter, sour, sweet
+constituents:: anthraquinones up to 4% (emodin, nepodin, chrysaphanol), tannins, oxalates
+
+actions:: draining alterative, choleric, cholagogue, laxative, astringent
+
+taste:: bitter, acrid, astringent
 
 energetic:: cooling, drying
 
-body systems:: Digestion, Mucous Membranes, Skin, Lymph, Liver/Gallbladder 
-
-Chinese Name: Chin-Ch’iao-Mai
-Ayurvedic Name: Amla vetasa
-
-### Botanical Description
-Rumex crispus is a perennial that reaches a height of 4-5 feet. First-year plants form a basal rosette of leaves which gives way in the second year to a stalk bearing small, greenish, apetalous flowers in panicles. Lance-shaped, alternate leaves have distinctly curly margins. Grooved, angular stems are usually branched from the base up, with larger leaves at the bottom of the plant and smaller, thin, willowy leaves toward the top. The small seeds are enclosed by a winged, papery, heart-shaped husk. Both stalks and seeds turn a distinctive, rusty brown hue in the autumn and persist throughout the winter. Carrot-like taproots are typically between 8-12 inches long and have a relatively thick bark. The root bark is an orange-yellow color, while the root’s interior has a lighter, brighter yellow hue. Other Rumex species are often mistaken for R. crispus. Look for narrow leaves with very wavy margins and a pale green stem; another indicator is the yellow color of the roots. (2)
-
+body systems:: digestive system - especially liver, gallbladder and intestines, Mucous Membranes, Skin, Lymph.
 
 ### In Practice 
 Yellow dock is a particularly helpful plant for individuals with weak digestion, as it strengthens and tones the tissues of the digestive track, while improving their function, and increasing mineral nourishment to the tissue.  Loose bowel tone that coincides with constipation is a digestive condition that can be most effectively improved with yellow dock, particularly in decoction.  As an alterative, yellow dock simultaneously improves gut, liver, and gallbladder function, and provides iron, significantly improving the quality of the circulating fluids of the body. This is a helpful plant for those recovering from chronic gut inflammation and stagnation, which has backed up into the liver, slowing hepatic clearance (4)
@@ -44,7 +42,7 @@ Yellow dock is a particularly helpful plant for individuals with weak digestion,
 ### Indications
 When there is too much pitta & too much kapha
 “Bad Blood” system… when things become stagnant and then inflamed.
-Affinity for digestive system used for:
+Digestive system:
 - Dysentery and other gastrointestinal complaints
 - Diarrhea
 - Mild laxative (especially for the lower digestive tract)
@@ -60,24 +58,23 @@ Affinity for digestive system used for:
 - Relief for people who have become dependent on over the counter laxatives (yellow dock itself is non-habit forming)
 - For people who have had their gallbladder removed – (after healing) – this could be helpful for helping them to break down fats (4)
 
-
-Affinity for skin conditions
+skin conditions
 - Chronic skin conditions: acne, boils, eczema, jaundice, and psoriasis
 - burns, ulcerations, sores, scabs, rashes, diabetic ulcers, and hives
 - Appalachian folk herbalists soak dock root in vinegar and apply as a wash on ringworm, rashes, and on animals in cases of mange or saddle sores
 - folk remedy for nettle rash
 
-
-Affinity for the respiratory system
+Respiratory system
 - pulmonary hemorrhages
 - Decoction for cough medicine
 - catarrh, chronic sore throat, and tuberculosis
 - dry and irritated cough, laryngitis, and bronchitis
 
-Affinity for reproductive complaints
+Reproductive complaints
 - hormonal imbalances related to liver congestion and poor fat digestion, such as fibrocystic breasts, uterine fibroids, and menstrual issues.
 - premenstrual syndrome, dysmenorrhea, amenorrhea, menorrhagia, as well as menstrual headaches and acne
 - excess stress hormones for those dealing with chronic pain from conditions such as fibromyalgia
+
 **Blood Purifier & Blood Builder** 
 - anemic or low in iron, chronically tired and stressed
 - As it builds iron it also alleviates constipation  (where over the counter iron supplements can cause constipation) 
@@ -88,16 +85,12 @@ Chronic pain
 Kidney Issues
 - kidney issues such as edema, stones, and the retention of urine
 
-There is current research on it use for colorectal cancer
-
-
-Pulse & Tongue indications (3)
+#### Pulse & Tongue indications (3)
 - The pulse will be superficial, bounding and rapid
 - A yellow coating on the tongue
 
-
 ### Contraindications
-- Large doses, especially of the fresh root, may cause gastrointestinal upset, nausea, and diarrhea. Yellow dock is most beneficial in sub-laxative doses
+Large doses, especially of the fresh root, may cause gastrointestinal upset, nausea, and diarrhea. Yellow dock is most beneficial in sub-laxative doses
 - the oxalic acid in yellow dock can aggravate rheumatism and gout
 - Do not use with kidney disease
 - Can activate Vatta – stimulating, drying(3)
@@ -107,7 +100,6 @@ Pulse & Tongue indications (3)
 
 #### Herb-Drug Interactions: 
 Possible interference with any drug as it impairs absorption if taken at the same time. Also avoid with any accompanying medication that causes hypokalemia (low level of potassium in the blood serum), cardiac glycosides, anti-arrhythmics, and diuretics. (3)
-
 
 ### Methods of Preparation & Dosing
 parts used: Root, young leaf, seed
@@ -122,8 +114,8 @@ recommend using yellow dock moderately and for short-term periods, such as 2-3 w
 > For constipation… tinctures are used to help move the bile and cause the rhythmic contractions to move stuff out.  For diarrhea, decoctions are the best method to get the astringent use. Vinegars are the best to get the minerals for use with iron deficiency. (So the way the herb is formulated is important to the need)
 
 
+
 ## Ancestry
-_Understanding a plant is about learning it’s history. Where did it come from? Who walked with it and how did they use it? Did the plant travel from it’s home land and how did it travel, what people moved it? 
 
 ### Native habitat
 Europe, western Asia, and northern Africa.
@@ -138,7 +130,7 @@ It tones and cools the digestive tract and relieves sluggish digestion character
 
 Once the plant spread into North America after the arrival of colonists, many Native American tribes, such as the Cherokee, Delaware, and Iroquois, also employed yellow dock for gastrointestinal complaints, such as diarrhea and dysentery. American pioneers drank a decoction of yellow dock root as a tonic, digestive aid, and slight laxative. The Eclectics also used Rumex for digestive issues such as stomach ulcers and diarrhea. King’s American Dispensatory specifically recommends small doses of Rumex in cases of nervous dyspepsia with gas and darting pain in the left chest.  Historically, used for scurvy because of the high Vitamin C content and to ease anemia due to its high iron content and its ability to promote the absorption of iron.  Mathew Wood used to relieve a severe case of ulcerative colitis – removing the need for surgery
 
-## As a food
+### As a food
 As a food… yellow dock leaves are often used in place for spinach. Seeds are ground into flour. Roots are added to soups. > Susun Weed (1989) includes it in her “spring tonic soup” recipe, which also contains burdock root, dandelion greens and root, and seaweed 
 
 ### Vitamins
@@ -149,9 +141,6 @@ Linked to our emotions “gut feelings”. Can help us let go of the feelings th
 
 When the colin gets stagnant, the mind also gets stagnant – and yellow dock can help get this moving (3)
 
-
-## Plant Walk
-_How does this plant feel to you spiritually? How would you work with it from a spiritual standpoint? Use this space to journal your thoughts and feelings using your intuition. Are there any prayers or ritual practices you have with this plant?_
 
 planetary influences:: Jupiter
 spiritual correspondences:: Fire, Salt
@@ -170,10 +159,13 @@ _Sometimes it’s easier to understand a plant when you compare and contrast it 
 - marshmallow
 
 ## Stewardship
-_Developing a true relationship with a plant is about becoming a steward. It’s about recognizing your responsibility for this plant and the other lives that live in relationship to it. Remember that this species was here before you, and with proper care, will be here after you. It is your ancestor._
+
+### Botanical Description
+Rumex crispus is a perennial that reaches a height of 4-5 feet. First-year plants form a basal rosette of leaves which gives way in the second year to a stalk bearing small, greenish, apetalous flowers in panicles. Lance-shaped, alternate leaves have distinctly curly margins. Grooved, angular stems are usually branched from the base up, with larger leaves at the bottom of the plant and smaller, thin, willowy leaves toward the top. The small seeds are enclosed by a winged, papery, heart-shaped husk. Both stalks and seeds turn a distinctive, rusty brown hue in the autumn and persist throughout the winter. Carrot-like taproots are typically between 8-12 inches long and have a relatively thick bark. The root bark is an orange-yellow color, while the root’s interior has a lighter, brighter yellow hue. Other Rumex species are often mistaken for R. crispus. Look for narrow leaves with very wavy margins and a pale green stem; another indicator is the yellow color of the roots. (2)
 
 ### Gardening
-	Thrives in USDA Zone 3-9. It has a long tap root, so grow in ground or 12 inch deep pot. Doesn’t easily transport, so grow from seed… sprinkle seeds on the surface – sunny to partial sunny. Keep moist while getting established. After, yellow doc can take care of itself. Spreads fast, so pinch off flowers before allowing to seed for more control.
+Thrives in USDA Zone 3-9. It has a long tap root, so grow in ground or 12 inch deep pot. Doesn’t easily transport, so grow from seed… sprinkle seeds on the surface – sunny to partial sunny. Keep moist while getting established. After, yellow doc can take care of itself. Spreads fast, so pinch off flowers before allowing to seed for more control.
+
 ### Wildcrafting
 Yellow dock preferes open sites with wet, nutrient-rich oil. Find it in meadows, gardens, waste areas, and along roadsides and ditches from low to middle elevations.
 
@@ -184,8 +176,6 @@ Herban Wellness
 The Herbalist
 Mountain Rose Herbs
 
-## Recipes
-_( link to recipes pages )_
 #### Recipes from Evolutionary Herbalism
 
 **Syrup for Purifying the Blood**
@@ -318,3 +308,4 @@ Dose: 30 to 40 drops in a small amount of warm water three times a day.
 
 
 ->[[../../assets/img/yellow-dock.pdf| Evolutionary Herbalism Monograph on Yellow Dock]]
+-> [[../../assets/img/commonwealth-yellowdoc.pdf|commonwealth-yellowdoc.pdf]]
